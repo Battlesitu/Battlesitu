@@ -6,8 +6,5 @@ I am a PhD Student at **Zhejiang University** and **Westlake University** joint 
 
 
 <div align="center">
-  
-![Boyi's Stats](https://github-readme-stats.vercel.app/api?username=Battlesitu&show_icons=true&theme=light&hide_border=true&count_private=true&bg_color=ffffff&text_color=333333&icon_color=0078d4)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Battlesitu&theme=light&hide_border=true&bg_color=ffffff&text_color=333333&icon_color=0078d4)
 
 </div>
