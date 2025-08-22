@@ -1,8 +1,8 @@
 # Hello, I’m Boyi SITU! 👋
 
- <a href="mailto:situboyi@westlake.edu.cn"> <img src="https://img.shields.io/badge/Email-situboyi@westlake.edu.cn-green?style=flat-square&logo=email" alt="Email"> </a> <a href="https://scholar.google.com.hk/citations?user=gdWqYSoAAAAJ&hl=zh-CN"> <img src="https://img.shields.io/badge/Google_Scholar-Boyi SITU-green?style=flat-square&logo=google-scholar" alt="Google Scholar"> </a> <a href="https://www.researchgate.net/profile/Boyi-Situ?ev=hdr_xprf"> <img src="https://img.shields.io/badge/ResearchGate-Boyi SITU-purple?style=flat-square&logo=researchgate" alt="ResearchGate"> </a> <img src="https://komarev.com/ghpvc/?username=Battlesitu&color=brightgreen&style=flat-square" alt="Profile Views">
+ <a href="mailto:situboyi@westlake.edu.cn"> <img src="https://img.shields.io/badge/Email-situboyi@westlake.edu.cn-green?style=flat-square&logo=email" alt="Email"> </a> <a href="https://scholar.google.com.hk/citations?user=gdWqYSoAAAAJ&hl=zh-CN"> <img src="https://img.shields.io/badge/Google_Scholar-Boyi SITU-green?style=flat-square&logo=google-scholar" alt="Google Scholar"> </a> <img src="https://komarev.com/ghpvc/?username=Battlesitu&color=brightgreen&style=flat-square" alt="Profile Views">
 
-I am a PhD Student at **Zhejiang University** and **Westlake University** joint program. I received my Bachelor's degree at the College of Physics Science and Technology, **Yangzhou University** in 2024. My research focuses on <u>*understanding and designing solid-state battery materials*</u> by usingg first-principles calculations and machine learning molecular dynamics simulations. I have published **5** articles in journals like *Nanoscale*, *PCCP*, etc.
+I am a PhD Student at **Zhejiang University** and **Westlake University** joint program. I received my Bachelor's degree at the College of Physics Science and Technology, **Yangzhou University** in 2024. My research focuses on <u>*developing and applying machine learning models*</u> to accelerate novel material discovery and development.
 
 
 <div align="center">
